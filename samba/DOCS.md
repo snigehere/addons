@@ -31,6 +31,8 @@ Directory | Description
 `share` | This is for your data that is shared between add-ons and Home Assistant.
 `ssl` | This is for your SSL certificates.
 
+To be able to share on windows open file explorer and right click "This PC" and choose "map network drive". In the foler enter \\<IP_ADDRESS>\<directory name> here IP address is the address for home assistant and directory name is one of the above diretories (folders)
+
 ## Configuration
 
 Add-on configuration:
